@@ -2,6 +2,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
 }
 
 
@@ -28,9 +29,10 @@
   margin: 20px 0;
   background: rgb(228, 228, 228);
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+  
   padding: 10px 20px;
-
   border-radius: 15px;
+  color: #444;
 }
 
 .question div {
